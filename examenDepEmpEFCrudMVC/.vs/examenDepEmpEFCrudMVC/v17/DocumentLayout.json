@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54A5D34D-2BD3-4793-AD94-D6087ED9009E}|examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examendepempefcrudmvc\\examendepempefcrudmvc\\examendepempefcrudmvc\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A5D34D-2BD3-4793-AD94-D6087ED9009E}|examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC.csproj|solutionrelative:examendepempefcrudmvc\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A5D34D-2BD3-4793-AD94-D6087ED9009E}|examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examendepempefcrudmvc\\examendepempefcrudmvc\\examendepempefcrudmvc\\views\\empleado\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A5D34D-2BD3-4793-AD94-D6087ED9009E}|examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC.csproj|solutionrelative:examendepempefcrudmvc\\views\\empleado\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A5D34D-2BD3-4793-AD94-D6087ED9009E}|examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examendepempefcrudmvc\\examendepempefcrudmvc\\examendepempefcrudmvc\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A5D34D-2BD3-4793-AD94-D6087ED9009E}|examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC.csproj|solutionrelative:examendepempefcrudmvc\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\Views\\Empleado\\Editar.cshtml",
+              "RelativeDocumentMoniker": "examenDepEmpEFCrudMVC\\Views\\Empleado\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\Views\\Empleado\\Editar.cshtml",
+              "RelativeToolTip": "examenDepEmpEFCrudMVC\\Views\\Empleado\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T00:47:17.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\Views\\Empleado\\Index.cshtml",
+              "RelativeDocumentMoniker": "examenDepEmpEFCrudMVC\\Views\\Empleado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\Views\\Empleado\\Index.cshtml",
+              "RelativeToolTip": "examenDepEmpEFCrudMVC\\Views\\Empleado\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T00:02:32.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "examenDepEmpEFCrudMVC\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\examenDepEmpEFCrudMVC\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "examenDepEmpEFCrudMVC\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T21:47:35.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

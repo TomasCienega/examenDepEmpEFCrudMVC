@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Editar Empleado";
+}
+@model examenDepEmpEFCrudMVC.ViewModels.EmpVM
+
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-@TempData["Tipo"] alert-dismissible fade show" role="alert">
+        @TempData["Mensaje"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="container mt-4">
+    <h2>Editar Empleado</h2>
+    <hr />
+
+    <form asp-action="Editar" method="post" class="row g-3 shadow-sm p-3 bg-white rounded border">
+        <input type="hidden" asp-for="RefModeloEmpleado.IdEmpleado" />
+
+        <div class="col-md-6">
+            <label class="form-label font-weight-bold">Nombre del Empleado</label>
+            <input asp-for="RefModeloEmpleado.NombreEmpleado" class="form-control" required />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label font-weight-bold">Departamento</label>
+            <select asp-for="RefModeloEmpleado.IdDepartamento" class="form-select"
+                    asp-items="@(new SelectList(Model.ListaDepartamentos, "IdDepartamento", "NombreDepartamento"))">
+                <option value="">-- Selecciona un departamento --</option>
+            </select>
+        </div>
+
+        <div class="col-12 mt-4">
+            <button type="submit" class="btn btn-primary">Actualizar Cambios</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+        </div>
+    </form>
+</div>
